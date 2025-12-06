@@ -81,7 +81,7 @@ docker run -d -p 8080:80 image   # Run detached with port mapping
 docker stop CONTAINER   # Stop container
 docker rm CONTAINER     # Remove container
 docker rmi IMAGE        # Remove image
-
+```
 ---
 
 Author
