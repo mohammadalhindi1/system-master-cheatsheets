@@ -63,12 +63,11 @@ This project also helps you understand:
 
 ---
 
-<p align="center">
   <img src="assets/linux-windows.png" width="400"/>
-</p>
 
 Author
 ```
 Mohammad Alhindi (Hindi)
 ```
 GitHub: https://github.com/mohammadalhindi1
+linkedin: www.linkedin.com/in/mohammad-alhendi13
