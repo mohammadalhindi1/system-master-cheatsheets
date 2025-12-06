@@ -67,6 +67,23 @@ This project also helps you understand:
 
 ---
 
+## 🐳 Docker Essentials
+
+### Common Docker Commands
+
+```bash
+docker ps               # Show running containers
+docker ps -a            # Show all containers (stopped + running)
+docker images           # List images
+docker pull image       # Download image from registry
+docker run -it image    # Run interactive container
+docker run -d -p 8080:80 image   # Run detached with port mapping
+docker stop CONTAINER   # Stop container
+docker rm CONTAINER     # Remove container
+docker rmi IMAGE        # Remove image
+
+---
+
 Author
 ```
 Mohammad Alhindi (Hindi)
