@@ -4,7 +4,7 @@
 </p>
 
 # Ultimate OS Cheatsheets
-A complete collection of Windows & Linux command references, shortcuts, troubleshooting steps, and deep system internals — created by **Mohammad Alhindi (Hindi)**.
+A complete collection of Windows & Linux command references, shortcuts, troubleshooting steps, and deep system internals — created by **Mohammad Alhindi **.
 
 This project is designed for:
 - Developers and DevOps engineers
