@@ -1,5 +1,9 @@
-<img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/bc74d7c2-5c70-4e4e-999a-aa9f87f2b1dc" /># Ultimate OS Cheatsheets
 
+<p align="center">
+  <img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/bc74d7c2-5c70-4e4e-999a-aa9f87f2b1dc" />
+</p>
+
+# Ultimate OS Cheatsheets
 A complete collection of Windows & Linux command references, shortcuts, troubleshooting steps, and deep system internals — created by **Mohammad Alhindi (Hindi)**.
 
 This project is designed for:
@@ -62,8 +66,6 @@ This project also helps you understand:
 - How SSH and basic Linux networking fit into real DevOps work  
 
 ---
-
-  <img src="assets/linux-windows.png" width="400"/>
 
 Author
 ```
